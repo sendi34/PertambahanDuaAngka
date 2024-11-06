@@ -230,11 +230,11 @@ public class PertambahanDuaAngkaFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jTextField6KeyTyped
 
     private void jTextField5FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextField5FocusGained
-        clearOnFocus(evt);
+        jTextField5.setText("");
     }//GEN-LAST:event_jTextField5FocusGained
 
     private void jTextField6FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTextField6FocusGained
-        clearOnFocus(evt);
+        jTextField6.setText("");
     }//GEN-LAST:event_jTextField6FocusGained
 
     /**
